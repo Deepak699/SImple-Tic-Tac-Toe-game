@@ -1,0 +1,43 @@
+.right
+{
+
+  border-right: 2px solid;
+}
+.bottom
+{
+  border-bottom: 2px solid;
+}
+body
+{
+  padding-top: 200px;
+}
+.s {
+  visibility: hidden;
+}
+.fourth
+{
+  height: 72px;
+}
+.third
+{
+  height: 72px;
+}
+.nine
+{
+  height: 72px;
+}
+.x::before
+{
+  content: 'X';
+  font-size: 40px;
+}
+.o::before
+{
+content: 'O';
+font-size: 40px;
+}
+.inp
+{
+  margin-bottom: 80px;
+  margin-left: 650px;
+}
